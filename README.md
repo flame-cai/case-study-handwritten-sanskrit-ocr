@@ -1,0 +1,3 @@
+- Use line-segmentation to segment text-line images from single-column, non-pictorical handwritten sanskrit manuscripts
+- Use line-recognition to finetune, and make inference (recognize text content from text-line images)
+- Use post-correction to finetune ByT5-Sanskrit, and make inference (make corrections to line-recogntion output)
